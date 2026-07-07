@@ -1,0 +1,13 @@
+studyid,usubjid,visit,measure,value
+S1,P001,V1,sysbp,120
+S1,P001,V1,diabp,80
+S1,P001,V1,pulse,72
+S1,P001,V2,sysbp,124
+S1,P001,V2,diabp,82
+S1,P001,V2,pulse,70
+S1,P002,V1,sysbp,131
+S1,P002,V1,diabp,85
+S1,P002,V1,pulse,68
+S1,P002,V2,sysbp,129
+S1,P002,V2,diabp,84
+S1,P002,V2,pulse,66

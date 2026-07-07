@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ETL migration generated outputs
+dags/data/output/*
+!dags/data/output/.gitkeep
